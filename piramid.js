@@ -38,4 +38,4 @@ function piramid(size, material) {
 
 }
 
-piramid(11, 1);
+
